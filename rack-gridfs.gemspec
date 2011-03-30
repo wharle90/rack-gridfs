@@ -2,7 +2,7 @@
 require File.expand_path("../lib/rack/gridfs", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "rack-gridfs"
+  s.name        = "pbrumm-rack-gridfs"
   s.version     = Rack::GridFS::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Blake Carlson"]
